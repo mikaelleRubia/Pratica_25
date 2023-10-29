@@ -1,4 +1,4 @@
-## Instruções Pratica 24
+## Instruções Pratica 25
     Reforçar os conceitos de Programação Orientada a Objetos através 
     de um problema mais complexo, onde são explorados todos os 
     conteúdos vistos até o momento. Além disso, treinar o 
